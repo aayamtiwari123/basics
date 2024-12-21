@@ -1,4 +1,4 @@
-mport random
+import random
 import sys
 
 a = input("Guess the number! Do you want a range or prefer without a range? Type 'with' or 'without': ").strip().lower()
