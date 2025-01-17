@@ -31,7 +31,7 @@ def with_range(r):
                     play = 20
                 print(f"Difficulty adjusted! You now have {play} chances.")
             else:
-                print("You lost here? Do you have anything resembling a brain? I bet you don't.")
+                print("You lost here? How?")
                 lose += 1
                 print(f"The correct answer was {r}")
                 if lose > 10:
